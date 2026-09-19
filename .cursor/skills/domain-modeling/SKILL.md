@@ -1,6 +1,6 @@
 ---
 name: domain-modeling
-description: Build and sharpen a project's domain model. Use when discussing codebase terminology, writing or editing a CONTEXT.md, or recording or editing an ADR.
+description: Edit CONTEXT.md, glossary, or ADRs when changing the domain model. Skip: grill interviews (grilling); grill that also writes docs (grill-with-docs); merely reading CONTEXT.md for vocabulary.
 ---
 
 # Domain Modeling

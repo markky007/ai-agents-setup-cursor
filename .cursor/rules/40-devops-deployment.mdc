@@ -1,6 +1,6 @@
 ---
 description: DevOps, CI/CD, Docker, and deployment configuration work
-globs: "**/Dockerfile,**/docker-compose*.yml,**/azure-pipelines*.yml,**/.github/workflows/**,**/k8s/**,**/*.env.example,apps/**/scripts/**,**/helm/**"
+globs: "**/Dockerfile,**/docker-compose*.yml,**/.gitlab-ci.yml,**/.gitlab/**/*.yml,**/azure-pipelines*.yml,**/.github/workflows/**,**/k8s/**,**/*.env.example,apps/**/scripts/**,**/helm/**"
 alwaysApply: false
 ---
 

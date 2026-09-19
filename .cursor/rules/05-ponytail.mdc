@@ -1,6 +1,6 @@
 ---
-description: Ponytail — lazy senior mode; shortest working diff after understanding the problem
-alwaysApply: true
+description: Ponytail — shortest working diff after understanding. Apply when implementing, fixing, refactoring, or reviewing code changes.
+alwaysApply: false
 ---
 
 # Ponytail, lazy senior mode

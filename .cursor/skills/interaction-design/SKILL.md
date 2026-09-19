@@ -1,6 +1,6 @@
 ---
 name: interaction-design
-description: Design and implement microinteractions, motion design, transitions, and user feedback patterns. Use when adding polish to UI interactions, implementing loading states, or creating delightful user experiences.
+description: Microinteractions, motion, and feedback patterns. Read when the user asks for interaction polish. Skip ordinary loading/error states already covered by frontend conventions.
 ---
 
 # Interaction Design

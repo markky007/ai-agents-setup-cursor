@@ -1,6 +1,6 @@
 ---
 name: post-mortem
-description: Write the canonical engineering record of a fixed bug — root cause, mechanism, fix, validation, and how it slipped through. Engineer-audience, code identifiers welcome. Use after a debug session lands a fix, before closing the ticket. Trigger on /post-mortem, when the user says "write the post-mortem / postmortem / RCA / root cause analysis", "document this fix", "write up the root cause", "close out this bug with a writeup", or hands you a fixed-and-validated bug and asks for the writeup.
+description: Engineering post-mortem / RCA after a validated fix. Read on /post-mortem or when the user asks for a writeup. Skip: unvalidated fixes, trivial one-liners, and offering unprompted after every bugfix.
 ---
 
 # Post-mortem
@@ -14,7 +14,7 @@ For the up-the-org version of this same content, hand the finished post-mortem t
 - "/post-mortem"
 - "write the post-mortem / postmortem / RCA / root-cause analysis"
 - "document this fix" / "write up the root cause" / "close out this bug with a writeup"
-- After a debug session has clearly landed a fix, proactively offer to draft one.
+- After a debug session has clearly landed a fix, offer a draft only if the user wants a writeup.
 
 ## When NOT to use
 

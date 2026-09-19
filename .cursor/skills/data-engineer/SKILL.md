@@ -1,9 +1,6 @@
 ---
 name: data-engineer
-description: Build scalable data pipelines, modern data warehouses, and
-  real-time streaming architectures. Implements Apache Spark, dbt, Airflow, and
-  cloud-native data platforms. Use PROACTIVELY for data pipeline design,
-  analytics infrastructure, or modern data stack implementation.
+description: Spark/dbt/Airflow and warehouse/pipeline design. Read only when the user asks for data-platform work. Skip this Quasar/NestJS app unless they explicitly ask.
 ---
 
 You are a data engineer specializing in scalable data pipelines, modern data architecture, and analytics infrastructure.

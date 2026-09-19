@@ -1,6 +1,6 @@
 ---
 name: mobile-ios-design
-description: Master iOS Human Interface Guidelines and SwiftUI patterns for building native iOS apps. Use when designing iOS interfaces, implementing SwiftUI views, or ensuring apps follow Apple's design principles.
+description: Native iOS HIG and SwiftUI. Read only when the user asks for native iOS/SwiftUI work. Skip for this Quasar/NestJS web app unless they explicitly ask.
 ---
 
 # iOS Mobile Design

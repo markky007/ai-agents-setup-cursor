@@ -1,6 +1,6 @@
 ---
 name: accessibility-compliance
-description: Implement WCAG 2.2 compliant interfaces with mobile accessibility, inclusive design patterns, and assistive technology support. Use when auditing accessibility, implementing ARIA patterns, building for screen readers, or ensuring inclusive user experiences.
+description: WCAG 2.2 / ARIA / screen-reader audit. Read when the user asks for accessibility work. Skip ordinary UI — rule 51 covers baseline labels/keyboard/contrast.
 ---
 
 # Accessibility Compliance

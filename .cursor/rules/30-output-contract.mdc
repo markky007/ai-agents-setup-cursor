@@ -1,6 +1,6 @@
 ---
-description: Required final report structure for implementation tasks
-alwaysApply: true
+description: Required final report structure after implementation, fixes, refactors, migrations, or CI/CD changes. Skip for pure Q&A with no edits.
+alwaysApply: false
 ---
 
 # Output Contract

@@ -1,6 +1,6 @@
 ---
 name: mobile-android-design
-description: Master Material Design 3 and Jetpack Compose patterns for building native Android apps. Use when designing Android interfaces, implementing Compose UI, or following Google's Material Design guidelines.
+description: Native Android Material 3 and Jetpack Compose. Read only when the user asks for native Android/Compose work. Skip for this Quasar/NestJS web app unless they explicitly ask.
 ---
 
 # Android Mobile Design

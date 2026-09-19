@@ -1,6 +1,6 @@
 ---
 name: grill-with-docs
-description: A relentless interview to sharpen a plan or design, which also creates docs (ADR's and glossary) as we go.
+description: Grill interview plus ADRs and glossary as you go. Use when the user wants a grill that produces domain docs. Skip: interview-only (grilling/grill-me); CONTEXT.md/ADR edits without a grill (domain-modeling).
 disable-model-invocation: true
 ---
 

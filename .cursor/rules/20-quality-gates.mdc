@@ -1,6 +1,6 @@
 ---
-description: Security, performance, code-quality, testing, and deployment-readiness gates
-alwaysApply: true
+description: Security, performance, code-quality, testing, and deployment-readiness gates. Apply when implementing, fixing, refactoring, deploying, or reviewing production code.
+alwaysApply: false
 ---
 
 # Quality Gates

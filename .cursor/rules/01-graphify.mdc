@@ -15,7 +15,7 @@ Before using Read, Grep, Glob, or Shell to explore **application code, data-flow
 - `graphify path "<A>" "<B>"` — dependency / data path between symbols
 - `graphify explain "<concept>"` — nodes related to a concept, with source files
 
-This applies to you and every subagent that explores application code. Include this requirement in those subagent prompts.
+This applies to you and every subagent that explores application code **unless the skip conditions below already hold**. Include this requirement in subagent prompts only when the subagent must discover `apps/` itself.
 
 **Workflow for app code:**
 
@@ -35,6 +35,7 @@ You may also use Read/Grep/Glob without Graphify when:
 
 1. Graphify has already oriented you and you are modifying/debugging specific lines it surfaced
 2. `graphify-out/graph.json` does not exist yet
+3. The parent already ran Graphify (or listed exact files/symbols) and passed that scope into this turn or into a subagent prompt — do not re-query from scratch
 
 ## Navigation tips
 

@@ -1,6 +1,6 @@
 ---
 name: visual-design-foundations
-description: Apply typography, color theory, spacing systems, and iconography principles to create cohesive visual designs. Use when establishing design tokens, building style guides, or improving visual hierarchy and consistency.
+description: Typography, color, spacing, and iconography systems. Read when establishing tokens or a style guide. Skip ordinary UI edits that should follow the existing Quasar theme.
 ---
 
 # Visual Design Foundations

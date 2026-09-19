@@ -1,6 +1,6 @@
 ---
 name: grilling
-description: Grill the user relentlessly about a plan, decision, or idea. Use when the user wants to stress-test their thinking, or uses any 'grill' trigger phrases.
+description: Interview-only grill of a plan or decision (design-tree rounds, no docs). Use when the user says grill / stress-test thinking. Skip: they want ADRs/glossary written during the grill (grill-with-docs); they want to edit CONTEXT.md/ADRs without an interview (domain-modeling).
 ---
 
 Interview the user relentlessly until you reach a shared understanding. Map this as a **design tree**: every decision branches into the decisions that hang off it.
